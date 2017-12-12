@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/build/intermediates/res/merged/debug/layout/plugin_ads.xml",
+        "source": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/src/main/res/layout/plugin_ads.xml"
+    },
+    {
+        "merged": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/build/intermediates/res/merged/debug/layout/plugin_login.xml",
+        "source": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/src/main/res/layout/plugin_login.xml"
+    }
+]

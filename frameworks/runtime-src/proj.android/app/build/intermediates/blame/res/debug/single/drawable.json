@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/build/intermediates/res/merged/debug/drawable/btn_close.png",
+        "source": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/src/main/res/drawable/btn_close.png"
+    },
+    {
+        "merged": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/build/intermediates/res/merged/debug/drawable/ui_ad.png",
+        "source": "/Users/hely.lixiong/Github/clc/frameworks/runtime-src/proj.android/app/src/main/res/drawable/ui_ad.png"
+    }
+]
